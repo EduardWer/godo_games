@@ -1,0 +1,22 @@
+[
+	{
+		"description": "Bag of 100 gold coins",
+		"getPriceCurrencyImage": "",
+		"id": "coins_100",
+		"imageURI": "",
+		"price": "50 YAN",
+		"priceCurrencyCode": "YAN",
+		"priceValue": "50",
+		"title": "100 Coins"
+	},
+	{
+		"description": "Permanent ad removal",
+		"getPriceCurrencyImage": "",
+		"id": "no_ads",
+		"imageURI": "",
+		"price": "100 YAN",
+		"priceCurrencyCode": "YAN",
+		"priceValue": "100",
+		"title": "Disable Ads"
+	}
+]
